@@ -1,1 +1,2 @@
 Train Number: 12761
+Departure Time: 10:30 AM
